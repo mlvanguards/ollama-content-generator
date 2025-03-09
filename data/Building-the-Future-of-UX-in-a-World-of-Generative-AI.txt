@@ -1,0 +1,104 @@
+--- PAGE 1 ---
+**WHITE PAPER**
+
+**Building the Future of UX in a World of Generative AI**
+
+July 2023
+By Matthew Scharpnick and Anthony Monahan
+
+--- PAGE 2 ---
+**Building the Future of UX in a World of Generative AI**
+
+Much attention has been focused on generative AI (GenAI), particularly its applications in large language models like LLMs and those powering generative art applications such as Midjourney and DALL-E. As this rapidly evolving space integrates GenAI models with existing tools, we will see an explosion of new possibilities for designing successful user experiences.
+
+While we are still in the early stages of GenAI - with a strong emphasis on conversational AI chatbots - this is expected to expand rapidly and UX patterns used over the last few years will need to be revisited. Based on BCG X's work in this space, here are some key considerations when building these products and services:
+
+*   **New Patterns:**
+    *   Success will require guidance
+        *   Share sample prompts and build design elements to help users solicit effective results
+    *   Traditional UIs will merge with conversational AI
+        *   Surface traditional UI tools in conversational AI - eventually creating real-time UIs to solve complex needs
+    *   Foundation models will integrate with existing applications
+        *   Move beyond chatbots to design multimodal interfaces that work seamlessly with familiar applications
+
+*   **Infinite Possibilities:**
+    *   Outputs will be unpredictable
+        *   Consider guardrails to model outputs and deliver a consistent brand voice
+    *   Experiences will be highly personalized
+        *   Leverage journeys and de-risk early with rapid prototyping and testing to design successful holistic experiences for each user
+    *   Trust will be earned through traceability
+        *   Provide citations, pathways to, and previews of source documents when appropriate
+
+*   **Rapid Change:**
+    *   Specialized interfaces will emerge
+        *   Use cases like world-building and generative science will require new types of UIs
+    *   Agent models will automate increasingly complex tasks
+        *   Visualize agent pathways to surface activity from APIs and plug-ins and allow user intervention when needed
+    *   Things will change quickly and often
+        *   Design with flexibility in mind, knowing that key UX patterns and capabilities will change frequently
+
+These are just a few of the many considerations for designing successful GenAI products and services. By understanding these trends and being prepared to adapt, designers can create innovative and effective solutions that meet the needs of their users.
+
+--- PAGE 3 ---
+**New Patterns**
+
+Users are still learning how to use GenAI tools effectively, even though they have been available for some time. Unlike traditional interfaces, these tools produce unique outputs for each user.
+
+Instead of using traditional UI elements such as buttons or filters, users will need to develop new methods for interacting with these systems. This can be done by creating new patterns and interfaces that are more intuitive and user-friendly.
+
+**Traditional UI Elements**
+
+Traditional UI elements are still important in creating an ideal experience. However, they should not be the only focus. Instead, designers should consider how to incorporate new patterns and interfaces into their designs.
+
+**New Patterns**
+
+New patterns can include:
+
+*   **Conversational Interfaces**: These allow users to interact with GenAI tools through natural language.
+*   **Visualizations**: These provide a visual representation of data and can help users understand complex information more easily.
+*   **Interactive Elements**: These allow users to engage with GenAI tools in new ways, such as through games or simulations.
+
+**Best Practices**
+
+When designing for GenAI tools, it's important to follow best practices. This includes:
+
+*   **User-Centered Design**: Designing interfaces that are intuitive and easy to use.
+*   **Accessibility**: Ensuring that interfaces are accessible to all users, regardless of ability or device.
+*   **Usability Testing**: Testing interfaces with real users to identify areas for improvement.
+
+**Conclusion**
+
+GenAI tools offer new opportunities for designers to create innovative and user-friendly interfaces. By incorporating new patterns and interfaces into their designs, designers can create experiences that are more engaging and effective than traditional UI elements alone.
+
+--- PAGE 4 ---
+The image presents a daily itinerary for Vienna, Austria, spanning from July 14th to July 17th. The layout is divided into three sections: morning, afternoon, and evening.
+
+*   **Morning**
+    *   **7/14 Morning**
+        *   Hoftburg Palace
+            *   Start your day at the former principal imperial palace of the Habsburg dynasty.
+            *   Explore the official residence and workplace of the President of Austria.
+        *   Stephansdom
+            *   Visit one of the tallest churches in Europe, featuring a striking Gothic architecture.
+        *   Figl-Moller Woltzels
+            *   Enjoy lunch at this restaurant, renowned for its Wiener schnitzel, a must-try dish when in Vienna.
+
+*   **Afternoon**
+    *   **7/14 Afternoon**
+        *   Albertina Museum
+            *   Explore the largest modern art museum in Austria.
+        *   Austrian National Library
+            *   Discover one of the world's most significant research libraries, housing over 12 million items.
+        *   Belvedere Palace
+            *   Visit a former imperial summer residence, now home to an impressive collection of art.
+
+*   **Evening**
+    *   **7/14 Evening**
+        *   Cafe Sacher
+            *   Indulge in the famous Sacher Torte at this iconic Viennese coffeehouse.
+        *   Vienna State Opera House
+            *   Attend a performance at one of the world's most renowned opera houses.
+        *   Plachutta Woltzels
+            *   Dine at this restaurant, serving traditional Austrian cuisine.
+
+In summary, the itinerary offers a mix of historical landmarks, cultural attractions, and culinary experiences, providing a comprehensive exploration of Vienna's rich heritage.
