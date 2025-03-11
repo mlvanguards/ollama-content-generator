@@ -1,104 +1,200 @@
 --- PAGE 1 ---
-**WHITE PAPER**
+**White Paper Cover Page**
 
-**Building the Future of UX in a World of Generative AI**
+* **Title:** Building the Future of UX in a World of Generative AI
+* **Subtitle:** WHITE PAPER
+* **Image:** A blue and white abstract design resembling a wave or ribbon
+* **Logo:** BCG X logo in the top-right corner
+* **Date:** July 2023
+* **Authors:** Matthew Scharpnick and Anthony Monahan
+
+**Transcription:**
+
+Building the Future of UX in a World of Generative AI
+
+WHITE PAPER
+
+[Image: A blue and white abstract design resembling a wave or ribbon]
+
+BCG X logo in the top-right corner
 
 July 2023
 By Matthew Scharpnick and Anthony Monahan
 
 --- PAGE 2 ---
-**Building the Future of UX in a World of Generative AI**
+**Transcription of Image Text**
 
-Much attention has been focused on generative AI (GenAI), particularly its applications in large language models like LLMs and those powering generative art applications such as Midjourney and DALL-E. As this rapidly evolving space integrates GenAI models with existing tools, we will see an explosion of new possibilities for designing successful user experiences.
+The image presents a page from an article or report titled "Building the Future of UX in a World of Generative AI." The text is divided into two main sections: the title and subtitle, followed by a section that appears to be an excerpt from a larger work.
 
-While we are still in the early stages of GenAI - with a strong emphasis on conversational AI chatbots - this is expected to expand rapidly and UX patterns used over the last few years will need to be revisited. Based on BCG X's work in this space, here are some key considerations when building these products and services:
+**Title and Subtitle**
 
-*   **New Patterns:**
-    *   Success will require guidance
-        *   Share sample prompts and build design elements to help users solicit effective results
-    *   Traditional UIs will merge with conversational AI
-        *   Surface traditional UI tools in conversational AI - eventually creating real-time UIs to solve complex needs
-    *   Foundation models will integrate with existing applications
-        *   Move beyond chatbots to design multimodal interfaces that work seamlessly with familiar applications
+* **Title:** Building the Future of UX in a World of Generative AI
+* **Subtitle:** Exhibit - UX for GEN AI | Unique characteristics to consider when designing a successful product or service with this technology
 
-*   **Infinite Possibilities:**
-    *   Outputs will be unpredictable
-        *   Consider guardrails to model outputs and deliver a consistent brand voice
-    *   Experiences will be highly personalized
-        *   Leverage journeys and de-risk early with rapid prototyping and testing to design successful holistic experiences for each user
-    *   Trust will be earned through traceability
-        *   Provide citations, pathways to, and previews of source documents when appropriate
+**Excerpt from Larger Work**
 
-*   **Rapid Change:**
-    *   Specialized interfaces will emerge
-        *   Use cases like world-building and generative science will require new types of UIs
-    *   Agent models will automate increasingly complex tasks
-        *   Visualize agent pathways to surface activity from APIs and plug-ins and allow user intervention when needed
-    *   Things will change quickly and often
-        *   Design with flexibility in mind, knowing that key UX patterns and capabilities will change frequently
+This section appears to be an excerpt from a larger work, possibly an academic paper or industry report. The text is written in a formal tone and discusses the future of user experience (UX) design in the context of generative AI.
 
-These are just a few of the many considerations for designing successful GenAI products and services. By understanding these trends and being prepared to adapt, designers can create innovative and effective solutions that meet the needs of their users.
+* **New Patterns**
+	+ Success will require guidance
+	+ Share sample prompts and build design elements to help users solicit effective results
+* **Infinite Possibilities**
+	+ Outputs will be unpredictable
+	+ Consider guardrails to model outputs and deliver a consistent brand voice
+* **Rapid Change**
+	+ Specialized interfaces will emerge
+	+ Use cases like world-building and generative science will require specific new types of UIs
+
+**Conclusion**
+
+The image provides an overview of the future of UX design in a world of generative AI. The excerpt highlights three key areas: new patterns, infinite possibilities, and rapid change. These areas are likely to shape the development of successful products and services that incorporate generative AI technology.
 
 --- PAGE 3 ---
 **New Patterns**
 
-Users are still learning how to use GenAI tools effectively, even though they have been available for some time. Unlike traditional interfaces, these tools produce unique outputs for each user.
+Users are still starting to understand where GenAI fits into their personal and professional toolkits, and how to get the most out of these tools. Unlike most interfaces, GenAI creates unique outputs for each user. Instead of using traditional UI elements like buttons or filters, users have an undefined and infinitely variable way of getting these tools to accomplish a task.
 
-Instead of using traditional UI elements such as buttons or filters, users will need to develop new methods for interacting with these systems. This can be done by creating new patterns and interfaces that are more intuitive and user-friendly.
+We've seen in the development of conversational AI chatbots that users struggle to understand the ideal ways to prompt these systems to achieve desired results. More than ever before, users will need guidance on how to interact with generative technologies. By providing sample prompts and initiating dialogues with users, we can better understand what's possible and how to achieve the best results.
 
-**Traditional UI Elements**
+For example, instead of just presenting an empty input field, **Inflection's AI assistant Pi** greets users with a script: "Hey there, great to meet you. I'm Pi, your personal AI." My goal is to be useful, friendly, and fun. Ask me for advice, or let's talk about whatever's on your mind. How's your day going?
 
-Traditional UI elements are still important in creating an ideal experience. However, they should not be the only focus. Instead, designers should consider how to incorporate new patterns and interfaces into their designs.
+Traditional UI elements are also important in creating an ideal experience. Not all interactions work best via voice or text. For example, the **Kayak plug-in from ChatGPT** outputs a paragraph of top choices for flight options. Adjusting these options would be easier with a visual UI modal that enters the chat and uses traditional filters and sorting mechanisms.
 
-**New Patterns**
+As conversational AI matures, we're likely to see a mixture of familiar UI tools alongside new ones.
 
-New patterns can include:
+Furthermore, we're likely to see models integrate not just with traditional UIs but also with existing applications. Microsoft, Google, Salesforce, and others are already building GenAI capabilities into their suites of tools. It's most likely that enterprise software will use the same application, such as email and maps. Conversational AI chatbots will interact with these tools to create an integrated experience.
 
-*   **Conversational Interfaces**: These allow users to interact with GenAI tools through natural language.
-*   **Visualizations**: These provide a visual representation of data and can help users understand complex information more easily.
-*   **Interactive Elements**: These allow users to engage with GenAI tools in new ways, such as through games or simulations.
+Multimodal inputs and outputs - text, voice, image, video code - will allow users to interact with new and existing applications in novel ways that require new UX thinking and patterns. Consider planning a vacation itinerary powered by a conversational AI integrated with rating sites and map applications. A simple request can create a list of top sites and restaurants to visit, along with suggested timing and routes all mapped out efficiently.
 
-**Best Practices**
-
-When designing for GenAI tools, it's important to follow best practices. This includes:
-
-*   **User-Centered Design**: Designing interfaces that are intuitive and easy to use.
-*   **Accessibility**: Ensuring that interfaces are accessible to all users, regardless of ability or device.
-*   **Usability Testing**: Testing interfaces with real users to identify areas for improvement.
-
-**Conclusion**
-
-GenAI tools offer new opportunities for designers to create innovative and user-friendly interfaces. By incorporating new patterns and interfaces into their designs, designers can create experiences that are more engaging and effective than traditional UI elements alone.
+**BCG X**
 
 --- PAGE 4 ---
-The image presents a daily itinerary for Vienna, Austria, spanning from July 14th to July 17th. The layout is divided into three sections: morning, afternoon, and evening.
+**Transcribed Text:**
 
-*   **Morning**
-    *   **7/14 Morning**
-        *   Hoftburg Palace
-            *   Start your day at the former principal imperial palace of the Habsburg dynasty.
-            *   Explore the official residence and workplace of the President of Austria.
-        *   Stephansdom
-            *   Visit one of the tallest churches in Europe, featuring a striking Gothic architecture.
-        *   Figl-Moller Woltzels
-            *   Enjoy lunch at this restaurant, renowned for its Wiener schnitzel, a must-try dish when in Vienna.
+**Header Section:**
+It be in Vienna from 7/14 to 7/17. Can you out together a daily itinerary for me with some attractions and restaurants while I'm there?
 
-*   **Afternoon**
-    *   **7/14 Afternoon**
-        *   Albertina Museum
-            *   Explore the largest modern art museum in Austria.
-        *   Austrian National Library
-            *   Discover one of the world's most significant research libraries, housing over 12 million items.
-        *   Belvedere Palace
-            *   Visit a former imperial summer residence, now home to an impressive collection of art.
+**Body Section:**
 
-*   **Evening**
-    *   **7/14 Evening**
-        *   Cafe Sacher
-            *   Indulge in the famous Sacher Torte at this iconic Viennese coffeehouse.
-        *   Vienna State Opera House
-            *   Attend a performance at one of the world's most renowned opera houses.
-        *   Plachutta Woltzels
-            *   Dine at this restaurant, serving traditional Austrian cuisine.
+Of course, I'd be happy to help you plan a three-day itinerary for Vienna.
 
-In summary, the itinerary offers a mix of historical landmarks, cultural attractions, and culinary experiences, providing a comprehensive exploration of Vienna's rich heritage.
+Since there's so much to see in this beautiful city, I'll focus on some of the key highlights that are relatively close together for a manageable walking tour. I've chosen some culturally and historically important places for you to visit, as well as all of the restaurants that are vegetarian-friendly. I've included maps of each location. Here's a suggested itinerary:
+
+**7/14 Morning:**
+
+*   **Hofburg Palace:** Start your day at the former principal imperial palace of the Habsburg dynasty that serves as the official residence and workplace of the President of Austria.
+*   **Stephansdom:** Nearby is this iconic symbol of Vienna. It's one of the tallest churches in the world, but you decide to climb the 343 steps to the lower room.
+
+**7/14 Afternoon:**
+
+*   **Albertina Museum:** Start your afternoon at the Albertina Museum.
+*   **Austrian National Library:** Next, visit the Austrian National Library.
+*   **Belvedere Palace:** Finally, end your afternoon with a visit to the Belvedere Palace.
+
+**7/14 Evening:**
+
+*   **Cafe Sacher:** Have dinner at Cafe Sacher.
+*   **Vienna State Opera House:** After dinner, catch a show at the Vienna State Opera House.
+*   **Punsch Restaurant:** Finish off your evening with dessert and drinks at Punsch Restaurant.
+
+Please note that availability may vary, and it's always a good idea to book reservations in advance. Let me know if you would like me to make arrangements for you.
+
+**Footer Section:**
+
+BUILDING THE FUTURE OF UX IN A WORLD OF GENERATIVE AI
+
+--- PAGE 5 ---
+Users are still beginning to understand where GenAI fits into their personal and professional toolkits, and how to get the most out of these tools.
+
+--- PAGE 6 ---
+**Infinite Possibilities**
+
+The magic and challenge of GenAI is that it produces a different outcome for each user. While this allows for amazing new possibilities for personalization, it also means giving up a certain amount of control. Traditional ways of testing products with users will have to be supplemented with new thinking around how products function differently for each user.
+
+One aspect of this challenge is that companies creating experiences for present users with the desired voice, tone, and content will not produce inappropriate responses or create experiences that feel right for a given brand. The former is subject to complex debates around censorship, representation, and accuracy. One leading company creating a foundational LLM, Anthropic, is pushing "constitutional" AI - attempting to align around a set of universal values and automate the creation of "harmless" AI. Whether or not this becomes a standard, specific products will be needed to allow companies to fine-tune their outputs to create on-brand experiences they want to deliver to customers.
+
+Going beyond avoiding risks, designing the right brand experience presents an opportunity for deep personalization as we have never seen before. GenAI can push beyond existing capabilities such as product recommendations and craft specific contexts and stories to match the value of the right product with the needs of a given customer. For example, a conversational AI chatbot can tell a customer why a product makes sense for them and even build additional products or extensions in real-time. However, models rarely produce flawless executions of these kinds of experiences on their own. To get these interactions right, traditional product development methodologies such as mapping out customer journeys, rapid prototyping, and ongoing user testing will be essential. With unique outputs for each user, data collection through feedback mechanisms such as thumbs up and down responses on ChatGPT can help continuously tune and improve models.
+
+A stumbling block for many LLMs has been "hallucinations" or generated content that is nonsensical or factually incorrect in how it uses source content. At least now in the development of GenAI, users cannot be sure if they can always trust a model's outputs. As users utilize LLMs for a mix of generating creative outputs as well as searching for factual and accurate content, designers will need to build in citations and pathways back to source content to build trust. Creative design solutions will be needed to find innovative ways to preview, pin, and store embedded source documents without sending users away from the conversational AI interface and reduce the need to scroll endlessly through conversation histories retracing steps.
+
+**End of Text**
+
+The end of the text is indicated by a page number 5 in the bottom left corner.
+
+--- PAGE 7 ---
+Rapid Change
+
+Writing about patterns in GenAI is almost comically difficult as the newness of the field and the rapid pace of change render many conclusions moot within weeks if not days. However, the potential of this technology requires us to make an effort to codify some principles even as the ground constantly shifts beneath us. Anyone moving to tap into the potential of GenAI in these early days by building products and services will have to be nimble and remain highly aware of the changing landscape.
+
+An area likely to see significant change going forward is in the types of generative content that models produce and the types of new interfaces needed to navigate these outputs. Early generative art models take a single text field and output an image. We are now seeing models such as DragGAN that allow users to stretch and bend photos in all directions, for example, to dynamically change the direction an animal is facing in an image or increase the height of trees on the horizon. These types of real-time adjustments to outputs will grow in sophistication and expand to new modalities.
+
+Designing interfaces for the equivalent in video is still a step away but we can imagine a more interesting task to enable elaborate world-building for video games and movies, and the possibility of building generative molecules as complex specialized use cases emerge.
+
+Basic agent-based models are already available with plug-ins from ChatGPT and experiments built on technologies such as LangChain. While many of these models are currently unreliable or limited to small sets of use cases, at some point soon we will see GenAI building entire interfaces and applications in real time for users. The next challenge will be visualizing these agent pathways by surfacing a view of the application programming interfaces (APIs) they use to accomplish tasks and finding ways for users to adjust those actions, enabling them to have control over and confidence in the output created by GenAI.
+
+BCG X
+
+--- PAGE 8 ---
+**Transcribed Text:**
+
+The provided image is a screenshot of a webpage displaying commodity pricing information. The text on the page appears to be a combination of HTML code and descriptive content.
+
+Here's the transcribed text:
+
+*   **Header Section:**
+    *   "Create a chart showing how commodity prices have been trending for the last two years alongside prices for our products and build a webpage for it."
+*   **Code Block:**
+    *   `<p>Of course I'd be happy to help.</p>`
+*   **Chart Selection:**
+    *   `<!-- Chart selection dropdown -->
+            <select id="chart-type">
+                <option value="line">Line chart</option>
+                <option value="bar">Bar chart</option>
+                <option value="scatter">Scatter plot</option>
+            </select>`
+*   **Data Table:**
+    *   `<!-- Commodity prices data table -->
+                    <table id="commodity-prices">
+                        <thead>
+                            <tr>
+                                <th>Commodity</th>
+                                <th>Price (USD)</th>
+                                <th>Change (%)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- commodity prices data rows will be generated dynamically -->
+                        </tbody>
+                    </table>`
+*   **Footer Section:**
+    *   `<p>Building the future of UX in a world of generative AI.</p>`
+
+--- PAGE 9 ---
+"Anyone looking to harness the potential of GenAI will need to move quickly, build iteratively, and pivot often."
+
+--- PAGE 10 ---
+**No time to wait**
+
+The changes we outline here are only a few examples of where this technology is heading. Remember just six months ago, most of the world had never even heard of GenAI. Never have we seen a digital technology that evolves so quickly and in so many directions. Building products that will integrate GenAI models will require a level of flexible design we haven't seen before. While the field has much maturation still to undergo, waiting for this to happen may be too late. The advantage of GenAI would likely come at too great a cost, with so many players looking to capitalize on it. Yet, at the same time, looking now to map out overly distant road maps for it would be equally risky, given the likelihood of further exponential advancements in the technology. Anyone looking to harness the potential of GenAI will need to move quickly, build iteratively, and pivot often.
+
+**BUILDING THE FUTURE OF UX IN A WORLD OF GENERATIVE AI**
+
+--- PAGE 11 ---
+Boston Consulting Group
+------------------------
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.
+
+Our diverse global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology, and design; corporate and digital ventures; data and analytics; consulting, operations, and transformation; organization design and implementation; and sustainability, climate, and resilience.
+
+We work in all levels of the client organization, fueled by our goal of helping clients thrive and enabling them to make the world a better place.
+
+BCG X
+------
+
+BCG X is the tech build & design unit of BCG. Turbocharging BCG's deep industry and functional expertise, BCG X brings together advanced technology knowledge and ambitious entrepreneurship to help organizations enable innovation at scale.
+
+With nearly 3,000 technologists, scientists, programmers, engineers, and human-centered designers located across 80+ cities, BCG X builds and designs platforms and software to address the world's most important challenges and opportunities.
+
+--- PAGE 12 ---
+BCG X

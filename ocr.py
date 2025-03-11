@@ -23,17 +23,17 @@ async def perform_ocr_async(image, page_num, semaphore):
     """Perform OCR on the given PIL image using Llama 3.2-Vision with semaphore to limit concurrent requests."""
     async with semaphore:
         print(f"Processing page {page_num}...")
-        # Save image to a temporary buffer to get the bytes
-        buffered = io.BytesIO()
-        image.save(buffered, format="PNG")
-        image_bytes = buffered.getvalue()
+        # Convert image to base64 string
+        image_base64 = encode_image_to_base64(image)
 
-        # Use Ollama library
+        # Use Ollama library with async client
         try:
-            response = ollama.chat(
+            # Create async client
+            client = ollama.AsyncClient()
+            response = await client.chat(
                 model="llama3.2-vision",
                 messages=[
-                    {"role": "user", "content": SYSTEM_PROMPT, "images": [image_bytes]}
+                    {"role": "user", "content": SYSTEM_PROMPT, "images": [image_base64]}
                 ],
             )
 
@@ -55,7 +55,10 @@ async def process_pdf_async(pdf_path, output_file=None, max_concurrent=4):
     print(f"Processing PDF: {pdf_path}")
 
     # Convert PDF to images in memory
-    images = convert_from_path(pdf_path)[0:4]
+    # Remove the slice [0:4] to process all pages
+    images = convert_from_path(
+        pdf_path, thread_count=4
+    )  # Use multiple threads for PDF conversion
     print(f"PDF has {len(images)} pages")
 
     # Create a semaphore to limit concurrent requests
@@ -64,7 +67,14 @@ async def process_pdf_async(pdf_path, output_file=None, max_concurrent=4):
     # Create tasks for each page
     tasks = []
     for i, image in enumerate(images):
-        task = perform_ocr_async(image, i + 1, semaphore)
+        # Resize image to reduce size while maintaining readability
+        width, height = image.size
+        new_width = min(width, 1200)  # Limit width to 1200px
+        ratio = new_width / width
+        new_height = int(height * ratio)
+        resized_image = image.resize((new_width, new_height))
+
+        task = perform_ocr_async(resized_image, i + 1, semaphore)
         tasks.append(task)
 
     # Wait for all tasks to complete
